@@ -1,0 +1,36 @@
+page-home {
+
+.birth{
+ font-family: Arial, Helvetica, sans-serif;
+ background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('../../assets/imgs/12.jpg');
+ background-attachment: fixed;
+ background-size:     cover;                      
+ background-repeat:   no-repeat;
+background-position: center center;
+text-align: center;
+color: white;
+// border: 1px solid;
+
+}
+
+#to{
+    // text-align: left;
+    margin-left: -250px
+ 
+}
+#from{
+    // text-align: right;
+    margin-right: -189px;
+}
+.text{
+    background-color: rgba(0, 0, 0, 0.247);
+    width: 300px;
+    height: 200px;
+}
+.head {
+    text-align: center;
+}
+p{
+    padding: 50px;
+}
+}
